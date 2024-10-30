@@ -1,0 +1,41 @@
+.item {
+    margin-left: 10%;
+}
+
+.container {
+    background-color: aliceblue;
+}
+
+.items-list {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    color: blue;
+}
+
+.btn {
+    margin-top: 5px;
+}
+
+.mat-badge-content {
+    width: auto;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    top: -10px;
+    left: -10px;
+}
+
+.input-text {
+    margin-right: 10px;
+}
+
+p {
+    font-size: larger;
+    color: green;
+    text-align: center;
+    margin-top: 20px;
+}
